@@ -1,5 +1,8 @@
 {
     "name": "masev/tag-bundle",
     "type": "symfony-bundle",
-    "target-dir": "Masev/TagBundle"
+    "target-dir": "Masev/TagBundle",
+    "autoload": {
+        "psr-0": {"Masev\\TagBundle": ""}
+    },
 }
