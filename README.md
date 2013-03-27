@@ -3,6 +3,8 @@ MasevTagBundle
 
 This an alpha proof of concept of implementing support for eZ Tags in eZ Publish 5.
 
+For now it only allows you to read which tags have been stored in an eztags fieldtype.
+
 Installation
 ============
 
